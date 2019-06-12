@@ -6,7 +6,7 @@ fiducial marker based SLAM.
 
 ## How to wrap a tag onto a mesh
 
-[Here][docs/README_blender.md] is a cook book recipe on how to texture
+[Here](docs/README_blender.md) is a cook book recipe on how to texture
 a single surface with blender.
 
 ## How to generate mesh files
