@@ -1,6 +1,5 @@
 #!/bin/bash
 
-num_tests=15
 famh=36h11
 fam=36_11
 srcd=`rospack find apriltag_ros`/../apriltag_image/tag${famh}
