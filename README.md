@@ -32,3 +32,8 @@ Just like tags, you can visualize cameras:
     roslaunch tagslam_viz visualize_tags.launch cameras_file:=path_to_your_cameras_file.yaml
 
 You can find an example cameras file in the ``config`` subdirectory.
+
+## License
+
+This software and any future contributions to it are licensed under
+the [Apache License 2.0](LICENSE).
